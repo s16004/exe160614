@@ -1,0 +1,4 @@
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          inet addr:172.16.43.68  Bcast:172.16.43.255  Mask:255.255.252.0
+          inet6 addr: fe80::e67d:5b9a:1f42:d62f/64 Scope:Link
